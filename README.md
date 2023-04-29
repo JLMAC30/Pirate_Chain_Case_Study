@@ -1,4 +1,4 @@
-# Case-Study
+# Pirate_Chain_Case_Study
 # A Case Study about the most Anonymous Cryptocurrency
 
 ## Pirate Chain, ticker=(ARRR), is a cryptocurrency project with a primary goal of being the most private and secure digital currency. Pirate Chain aims to protect the financial privacy of each of its users. Pirate Chain has come a long way as it was originated in a discord group.
